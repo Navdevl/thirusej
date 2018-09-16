@@ -108,11 +108,13 @@ a:hover {
   }
 }
 html {
-  background-color: #061C30;
+  /*background-color: #061C30;*/
+    background-color: #090909;
 }
 
 body.page-template-page-fullsingle-split {
-  background-color: #061C30;
+  /*background-color: #061C30;*/
+  background-color: #090909;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 21px;
@@ -191,10 +193,11 @@ body.page-template-page-fullsingle-split p {
   line-height: 16px;
   margin-bottom: 40px;
   letter-spacing: 0.4px;
-  color: #47bec7;
+  color: #c16b34;
 }
 .split-intro .tagline {
-  color: #CCCCCC;
+  /*color: #CCCCCC;*/
+  color: #c16b34;
 }
 
 .split-bio {
