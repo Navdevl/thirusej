@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://thirusej.tk/"
+baseURL = "/"
 languageCode = "en-US"
 title = "Split - HTML Template Demo"
 # theme = "hugo-split-theme"
