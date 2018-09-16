@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Architect, planning to destroy the evil."
 # theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -15,7 +15,7 @@ copyright = "&copy;2018 Thirusej"
 
   # Metadata for search engines and social sharing
   author = "Thirusej"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  description = "Architect, planning to destroy the evil."
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
 
