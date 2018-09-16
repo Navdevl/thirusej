@@ -20,7 +20,7 @@ copyright = "&copy;2018 Thirusej"
   twitterHandle = "onepagelove"
 
   # Favicon
-  favicon = "favicon.ico"
+  favicon = "/favicon/favicon.ico"
 
   # Section - Visual
   [params.visual]
